@@ -1,11 +1,3 @@
----
-title: "AWS Cloud & Data Analytics: Practical SAA Notes and Architecture Guide"
-subtitle: "A practical collection of AWS concepts covering compute, storage, networking, IAM, organizations, databases, data lakes, analytics, governance, and modern data architecture."
-slug: "aws-cloud-data-analytics-practical-saa-notes-architecture-guide"
-tags: ["aws", "cloud-computing", "data-analytics", "devops", "aws-solutions-architect"]
-cover: "https://cdn.hashnode.com/res/hashnode/image/upload/v1645000000000/aws-guide.png"
-author: "RAGULRAAJAN"
----
 
 # AWS Cloud & Data Analytics: Practical SAA Notes and Architecture Guide
 
