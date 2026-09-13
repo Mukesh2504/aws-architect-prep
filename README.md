@@ -138,6 +138,7 @@ c5.4xlarge
 * Memory optimized
 * Storage optimized
 * Accelerated computing
+<img width="1024" height="536" alt="image" src="https://github.com/user-attachments/assets/09b2a072-8e1b-4590-a9d5-4744e3248aee" />
 
 ---
 
